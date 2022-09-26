@@ -1,1 +1,1 @@
-# stack-rnn
+# stock-rnn
