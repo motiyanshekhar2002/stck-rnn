@@ -1,1 +1,1 @@
-# stck-rnn
+# stack-rnn
